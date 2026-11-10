@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and caches
+.conda/
+.venv/
+venv/
+.cache/
+.hf_cache/
+.torch_cache/
+.matplotlib/
+
+# Models, checkpoints, and generated outputs
+*.bin
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+trained-flux*/
+outputs/
+results/
+logs/
+wandb/
+
+# Local data and configuration
+data/
+datasets/
+.env
+*.local
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store

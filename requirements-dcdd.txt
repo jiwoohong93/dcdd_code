@@ -1,0 +1,18 @@
+accelerate==1.14.0
+attrdict==2.0.1
+bitsandbytes>=0.45.0
+clean-fid==0.1.35
+diffusers @ git+https://github.com/huggingface/diffusers.git@55d49d4379007740af20629bb61aba9546c6b053
+einops==0.8.2
+ftfy==6.3.1
+huggingface-hub==0.36.2
+numpy==2.2.6
+pillow==12.2.0
+protobuf==6.33.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+timm==1.0.12
+tokenizers==0.20.3
+torchmetrics==1.9.0
+tqdm==4.69.1
+transformers==4.46.3

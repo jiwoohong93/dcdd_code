@@ -1,0 +1,2 @@
+# Optional W&B integration. The core release does not require it.
+wandb==0.19.11
