@@ -26,6 +26,12 @@
 <sub><sup>*</sup> Work done during an internship at MSRA. &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding authors.</sub>
 </p>
 
+<p>
+<a href="https://www.kaist.ac.kr/en/"><img src="assets/logos/kaist.svg" height="60" align="middle" alt="KAIST"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><img src="assets/logos/microsoft.svg" height="30" align="middle" alt="Microsoft"></a>
+</p>
+
 <img src="assets/teaser.jpg" width="100%" alt="Text-to-image and reconstruction samples on Janus-Pro 7B: native VQ-VAE decoder vs. DCDD on identical tokens">
 
 </div>
